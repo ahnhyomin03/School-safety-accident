@@ -1,0 +1,2177 @@
+{
+  "public_2024_sports_survey": {
+    "all_soccer": {
+      "respondents": 1258,
+      "injured": 894,
+      "injury_experience_pct": 71.07,
+      "body_mentions": 2455,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 466,
+          "injured_person_pct": 52.13,
+          "body_mention_share_pct": 18.98
+        },
+        {
+          "body_part": "무릎",
+          "count": 319,
+          "injured_person_pct": 35.68,
+          "body_mention_share_pct": 12.99
+        },
+        {
+          "body_part": "허리",
+          "count": 131,
+          "injured_person_pct": 14.65,
+          "body_mention_share_pct": 5.34
+        },
+        {
+          "body_part": "종아리",
+          "count": 125,
+          "injured_person_pct": 13.98,
+          "body_mention_share_pct": 5.09
+        },
+        {
+          "body_part": "정강이",
+          "count": 123,
+          "injured_person_pct": 13.76,
+          "body_mention_share_pct": 5.01
+        },
+        {
+          "body_part": "발가락",
+          "count": 98,
+          "injured_person_pct": 10.96,
+          "body_mention_share_pct": 3.99
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 97,
+          "injured_person_pct": 10.85,
+          "body_mention_share_pct": 3.95
+        },
+        {
+          "body_part": "발등",
+          "count": 91,
+          "injured_person_pct": 10.18,
+          "body_mention_share_pct": 3.71
+        },
+        {
+          "body_part": "손목",
+          "count": 87,
+          "injured_person_pct": 9.73,
+          "body_mention_share_pct": 3.54
+        },
+        {
+          "body_part": "발톱",
+          "count": 78,
+          "injured_person_pct": 8.72,
+          "body_mention_share_pct": 3.18
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 77,
+          "injured_person_pct": 8.61,
+          "body_mention_share_pct": 3.14
+        },
+        {
+          "body_part": "어깨",
+          "count": 76,
+          "injured_person_pct": 8.5,
+          "body_mention_share_pct": 3.1
+        },
+        {
+          "body_part": "손가락",
+          "count": 63,
+          "injured_person_pct": 7.05,
+          "body_mention_share_pct": 2.57
+        },
+        {
+          "body_part": "이마",
+          "count": 53,
+          "injured_person_pct": 5.93,
+          "body_mention_share_pct": 2.16
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 52,
+          "injured_person_pct": 5.82,
+          "body_mention_share_pct": 2.12
+        },
+        {
+          "body_part": "발바닥",
+          "count": 47,
+          "injured_person_pct": 5.26,
+          "body_mention_share_pct": 1.91
+        },
+        {
+          "body_part": "손바닥",
+          "count": 40,
+          "injured_person_pct": 4.47,
+          "body_mention_share_pct": 1.63
+        },
+        {
+          "body_part": "코",
+          "count": 40,
+          "injured_person_pct": 4.47,
+          "body_mention_share_pct": 1.63
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 39,
+          "injured_person_pct": 4.36,
+          "body_mention_share_pct": 1.59
+        },
+        {
+          "body_part": "사타구니",
+          "count": 33,
+          "injured_person_pct": 3.69,
+          "body_mention_share_pct": 1.34
+        },
+        {
+          "body_part": "눈",
+          "count": 33,
+          "injured_person_pct": 3.69,
+          "body_mention_share_pct": 1.34
+        },
+        {
+          "body_part": "가슴",
+          "count": 30,
+          "injured_person_pct": 3.36,
+          "body_mention_share_pct": 1.22
+        },
+        {
+          "body_part": "턱",
+          "count": 27,
+          "injured_person_pct": 3.02,
+          "body_mention_share_pct": 1.1
+        },
+        {
+          "body_part": "두피",
+          "count": 25,
+          "injured_person_pct": 2.8,
+          "body_mention_share_pct": 1.02
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 25,
+          "injured_person_pct": 2.8,
+          "body_mention_share_pct": 1.02
+        },
+        {
+          "body_part": "입",
+          "count": 22,
+          "injured_person_pct": 2.46,
+          "body_mention_share_pct": 0.9
+        },
+        {
+          "body_part": "아래팔",
+          "count": 22,
+          "injured_person_pct": 2.46,
+          "body_mention_share_pct": 0.9
+        },
+        {
+          "body_part": "광대/뺨",
+          "count": 21,
+          "injured_person_pct": 2.35,
+          "body_mention_share_pct": 0.86
+        },
+        {
+          "body_part": "목(경부)",
+          "count": 19,
+          "injured_person_pct": 2.13,
+          "body_mention_share_pct": 0.77
+        },
+        {
+          "body_part": "등",
+          "count": 15,
+          "injured_person_pct": 1.68,
+          "body_mention_share_pct": 0.61
+        },
+        {
+          "body_part": "위팔",
+          "count": 15,
+          "injured_person_pct": 1.68,
+          "body_mention_share_pct": 0.61
+        },
+        {
+          "body_part": "치아",
+          "count": 14,
+          "injured_person_pct": 1.57,
+          "body_mention_share_pct": 0.57
+        },
+        {
+          "body_part": "배",
+          "count": 12,
+          "injured_person_pct": 1.34,
+          "body_mention_share_pct": 0.49
+        },
+        {
+          "body_part": "귀",
+          "count": 12,
+          "injured_person_pct": 1.34,
+          "body_mention_share_pct": 0.49
+        },
+        {
+          "body_part": "손등",
+          "count": 8,
+          "injured_person_pct": 0.89,
+          "body_mention_share_pct": 0.33
+        },
+        {
+          "body_part": "손톱",
+          "count": 8,
+          "injured_person_pct": 0.89,
+          "body_mention_share_pct": 0.33
+        },
+        {
+          "body_part": "제시 부분을 제외한 머리부분",
+          "count": 7,
+          "injured_person_pct": 0.78,
+          "body_mention_share_pct": 0.29
+        },
+        {
+          "body_part": "기타 (",
+          "count": 5,
+          "injured_person_pct": 0.56,
+          "body_mention_share_pct": 0.2
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 781,
+        "2": 113
+      },
+      "usual_warmup": {
+        "4": 756,
+        "3": 234,
+        "5": 220,
+        "2": 45,
+        "1": 3
+      },
+      "protective_equipment": {
+        "2": 540,
+        "1": 354
+      },
+      "environment_check": {
+        "1": 372,
+        "2": 522
+      },
+      "manual_check": {
+        "1": 214,
+        "2": 680
+      },
+      "leader_present": {
+        "2": 382,
+        "3": 372,
+        "null": 58,
+        "1": 82
+      },
+      "athlete_type": {
+        "1": 1050,
+        "2": 208
+      },
+      "surface": {
+        "2": 607,
+        "3": 227,
+        "1": 54,
+        "4": 6
+      },
+      "knee_by_warmup": {
+        "1": {
+          "other": 505,
+          "knee": 276
+        },
+        "2": {
+          "knee": 43,
+          "other": 70
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 3.723,
+        "Q27_1#2": 3.658,
+        "Q27_1#3": 3.575
+      }
+    },
+    "child_12_or_younger_soccer": {
+      "respondents": 0,
+      "injured": 0,
+      "injury_experience_pct": null,
+      "body_mentions": 0,
+      "body_parts": [],
+      "warmup_before_injury": {},
+      "usual_warmup": {},
+      "protective_equipment": {},
+      "environment_check": {},
+      "manual_check": {},
+      "leader_present": {},
+      "athlete_type": {},
+      "surface": {},
+      "knee_by_warmup": {},
+      "warmup_quality_mean": {}
+    },
+    "teen_13_18_soccer": {
+      "respondents": 44,
+      "injured": 40,
+      "injury_experience_pct": 90.91,
+      "body_mentions": 133,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 22,
+          "injured_person_pct": 55.0,
+          "body_mention_share_pct": 16.54
+        },
+        {
+          "body_part": "무릎",
+          "count": 17,
+          "injured_person_pct": 42.5,
+          "body_mention_share_pct": 12.78
+        },
+        {
+          "body_part": "허리",
+          "count": 11,
+          "injured_person_pct": 27.5,
+          "body_mention_share_pct": 8.27
+        },
+        {
+          "body_part": "손목",
+          "count": 7,
+          "injured_person_pct": 17.5,
+          "body_mention_share_pct": 5.26
+        },
+        {
+          "body_part": "손가락",
+          "count": 7,
+          "injured_person_pct": 17.5,
+          "body_mention_share_pct": 5.26
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 6,
+          "injured_person_pct": 15.0,
+          "body_mention_share_pct": 4.51
+        },
+        {
+          "body_part": "발등",
+          "count": 6,
+          "injured_person_pct": 15.0,
+          "body_mention_share_pct": 4.51
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "정강이",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "사타구니",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "종아리",
+          "count": 4,
+          "injured_person_pct": 10.0,
+          "body_mention_share_pct": 3.01
+        },
+        {
+          "body_part": "발톱",
+          "count": 3,
+          "injured_person_pct": 7.5,
+          "body_mention_share_pct": 2.26
+        },
+        {
+          "body_part": "기타 (",
+          "count": 3,
+          "injured_person_pct": 7.5,
+          "body_mention_share_pct": 2.26
+        },
+        {
+          "body_part": "손바닥",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "발바닥",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "손톱",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "치아",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "위팔",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "발가락",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "귀",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "두피",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "코",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "이마",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "광대/뺨",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "아래팔",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "어깨",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "턱",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 39,
+        "2": 1
+      },
+      "usual_warmup": {
+        "5": 25,
+        "4": 16,
+        "3": 2,
+        "2": 1
+      },
+      "protective_equipment": {
+        "2": 20,
+        "1": 20
+      },
+      "environment_check": {
+        "2": 26,
+        "1": 14
+      },
+      "manual_check": {
+        "2": 28,
+        "1": 12
+      },
+      "leader_present": {
+        "2": 9,
+        "3": 11,
+        "1": 12,
+        "null": 8
+      },
+      "athlete_type": {
+        "1": 8,
+        "2": 36
+      },
+      "surface": {
+        "2": 32,
+        "3": 6,
+        "1": 2
+      },
+      "knee_by_warmup": {
+        "1": {
+          "knee": 17,
+          "other": 22
+        },
+        "2": {
+          "other": 1
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 4.103,
+        "Q27_1#2": 4.179,
+        "Q27_1#3": 4.051
+      }
+    },
+    "teen_13_18_lifestyle_soccer": {
+      "respondents": 8,
+      "injured": 5,
+      "injury_experience_pct": 62.5,
+      "body_mentions": 18,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 4,
+          "injured_person_pct": 80.0,
+          "body_mention_share_pct": 22.22
+        },
+        {
+          "body_part": "무릎",
+          "count": 2,
+          "injured_person_pct": 40.0,
+          "body_mention_share_pct": 11.11
+        },
+        {
+          "body_part": "두피",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "이마",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "광대/뺨",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "손바닥",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "정강이",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "종아리",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "발가락",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "발톱",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "위팔",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        },
+        {
+          "body_part": "아래팔",
+          "count": 1,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 5.56
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 4,
+        "2": 1
+      },
+      "usual_warmup": {
+        "5": 2,
+        "4": 4,
+        "3": 2
+      },
+      "protective_equipment": {
+        "2": 5
+      },
+      "environment_check": {
+        "2": 4,
+        "1": 1
+      },
+      "manual_check": {
+        "2": 3,
+        "1": 2
+      },
+      "leader_present": {
+        "2": 2,
+        "null": 1,
+        "3": 2
+      },
+      "athlete_type": {
+        "1": 8
+      },
+      "surface": {
+        "2": 2,
+        "1": 1,
+        "3": 2
+      },
+      "knee_by_warmup": {
+        "1": {
+          "knee": 2,
+          "other": 2
+        },
+        "2": {
+          "other": 1
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 3.5,
+        "Q27_1#2": 3.5,
+        "Q27_1#3": 3.75
+      }
+    },
+    "teen_13_18_professional_soccer": {
+      "respondents": 36,
+      "injured": 35,
+      "injury_experience_pct": 97.22,
+      "body_mentions": 115,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 18,
+          "injured_person_pct": 51.43,
+          "body_mention_share_pct": 15.65
+        },
+        {
+          "body_part": "무릎",
+          "count": 15,
+          "injured_person_pct": 42.86,
+          "body_mention_share_pct": 13.04
+        },
+        {
+          "body_part": "허리",
+          "count": 11,
+          "injured_person_pct": 31.43,
+          "body_mention_share_pct": 9.57
+        },
+        {
+          "body_part": "손목",
+          "count": 7,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 6.09
+        },
+        {
+          "body_part": "손가락",
+          "count": 7,
+          "injured_person_pct": 20.0,
+          "body_mention_share_pct": 6.09
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 6,
+          "injured_person_pct": 17.14,
+          "body_mention_share_pct": 5.22
+        },
+        {
+          "body_part": "발등",
+          "count": 6,
+          "injured_person_pct": 17.14,
+          "body_mention_share_pct": 5.22
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 5,
+          "injured_person_pct": 14.29,
+          "body_mention_share_pct": 4.35
+        },
+        {
+          "body_part": "사타구니",
+          "count": 5,
+          "injured_person_pct": 14.29,
+          "body_mention_share_pct": 4.35
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 4,
+          "injured_person_pct": 11.43,
+          "body_mention_share_pct": 3.48
+        },
+        {
+          "body_part": "정강이",
+          "count": 4,
+          "injured_person_pct": 11.43,
+          "body_mention_share_pct": 3.48
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 4,
+          "injured_person_pct": 11.43,
+          "body_mention_share_pct": 3.48
+        },
+        {
+          "body_part": "종아리",
+          "count": 3,
+          "injured_person_pct": 8.57,
+          "body_mention_share_pct": 2.61
+        },
+        {
+          "body_part": "기타 (",
+          "count": 3,
+          "injured_person_pct": 8.57,
+          "body_mention_share_pct": 2.61
+        },
+        {
+          "body_part": "발톱",
+          "count": 2,
+          "injured_person_pct": 5.71,
+          "body_mention_share_pct": 1.74
+        },
+        {
+          "body_part": "발바닥",
+          "count": 2,
+          "injured_person_pct": 5.71,
+          "body_mention_share_pct": 1.74
+        },
+        {
+          "body_part": "손톱",
+          "count": 2,
+          "injured_person_pct": 5.71,
+          "body_mention_share_pct": 1.74
+        },
+        {
+          "body_part": "치아",
+          "count": 2,
+          "injured_person_pct": 5.71,
+          "body_mention_share_pct": 1.74
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 2,
+          "injured_person_pct": 5.71,
+          "body_mention_share_pct": 1.74
+        },
+        {
+          "body_part": "손바닥",
+          "count": 1,
+          "injured_person_pct": 2.86,
+          "body_mention_share_pct": 0.87
+        },
+        {
+          "body_part": "귀",
+          "count": 1,
+          "injured_person_pct": 2.86,
+          "body_mention_share_pct": 0.87
+        },
+        {
+          "body_part": "코",
+          "count": 1,
+          "injured_person_pct": 2.86,
+          "body_mention_share_pct": 0.87
+        },
+        {
+          "body_part": "위팔",
+          "count": 1,
+          "injured_person_pct": 2.86,
+          "body_mention_share_pct": 0.87
+        },
+        {
+          "body_part": "어깨",
+          "count": 1,
+          "injured_person_pct": 2.86,
+          "body_mention_share_pct": 0.87
+        },
+        {
+          "body_part": "턱",
+          "count": 1,
+          "injured_person_pct": 2.86,
+          "body_mention_share_pct": 0.87
+        },
+        {
+          "body_part": "발가락",
+          "count": 1,
+          "injured_person_pct": 2.86,
+          "body_mention_share_pct": 0.87
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 35
+      },
+      "usual_warmup": {
+        "5": 23,
+        "4": 12,
+        "2": 1
+      },
+      "protective_equipment": {
+        "2": 15,
+        "1": 20
+      },
+      "environment_check": {
+        "1": 13,
+        "2": 22
+      },
+      "manual_check": {
+        "2": 25,
+        "1": 10
+      },
+      "leader_present": {
+        "3": 9,
+        "2": 7,
+        "1": 12,
+        "null": 7
+      },
+      "athlete_type": {
+        "2": 36
+      },
+      "surface": {
+        "3": 4,
+        "2": 30,
+        "1": 1
+      },
+      "knee_by_warmup": {
+        "1": {
+          "knee": 15,
+          "other": 20
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 4.171,
+        "Q27_1#2": 4.257,
+        "Q27_1#3": 4.086
+      }
+    },
+    "school_age_18_or_younger_soccer": {
+      "respondents": 44,
+      "injured": 40,
+      "injury_experience_pct": 90.91,
+      "body_mentions": 133,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 22,
+          "injured_person_pct": 55.0,
+          "body_mention_share_pct": 16.54
+        },
+        {
+          "body_part": "무릎",
+          "count": 17,
+          "injured_person_pct": 42.5,
+          "body_mention_share_pct": 12.78
+        },
+        {
+          "body_part": "허리",
+          "count": 11,
+          "injured_person_pct": 27.5,
+          "body_mention_share_pct": 8.27
+        },
+        {
+          "body_part": "손목",
+          "count": 7,
+          "injured_person_pct": 17.5,
+          "body_mention_share_pct": 5.26
+        },
+        {
+          "body_part": "손가락",
+          "count": 7,
+          "injured_person_pct": 17.5,
+          "body_mention_share_pct": 5.26
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 6,
+          "injured_person_pct": 15.0,
+          "body_mention_share_pct": 4.51
+        },
+        {
+          "body_part": "발등",
+          "count": 6,
+          "injured_person_pct": 15.0,
+          "body_mention_share_pct": 4.51
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "정강이",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "사타구니",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 5,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.76
+        },
+        {
+          "body_part": "종아리",
+          "count": 4,
+          "injured_person_pct": 10.0,
+          "body_mention_share_pct": 3.01
+        },
+        {
+          "body_part": "발톱",
+          "count": 3,
+          "injured_person_pct": 7.5,
+          "body_mention_share_pct": 2.26
+        },
+        {
+          "body_part": "기타 (",
+          "count": 3,
+          "injured_person_pct": 7.5,
+          "body_mention_share_pct": 2.26
+        },
+        {
+          "body_part": "손바닥",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "발바닥",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "손톱",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "치아",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "위팔",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "발가락",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 2,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.5
+        },
+        {
+          "body_part": "귀",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "두피",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "코",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "이마",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "광대/뺨",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "아래팔",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "어깨",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        },
+        {
+          "body_part": "턱",
+          "count": 1,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.75
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 39,
+        "2": 1
+      },
+      "usual_warmup": {
+        "5": 25,
+        "4": 16,
+        "3": 2,
+        "2": 1
+      },
+      "protective_equipment": {
+        "2": 20,
+        "1": 20
+      },
+      "environment_check": {
+        "2": 26,
+        "1": 14
+      },
+      "manual_check": {
+        "2": 28,
+        "1": 12
+      },
+      "leader_present": {
+        "2": 9,
+        "3": 11,
+        "1": 12,
+        "null": 8
+      },
+      "athlete_type": {
+        "1": 8,
+        "2": 36
+      },
+      "surface": {
+        "2": 32,
+        "3": 6,
+        "1": 2
+      },
+      "knee_by_warmup": {
+        "1": {
+          "knee": 17,
+          "other": 22
+        },
+        "2": {
+          "other": 1
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 4.103,
+        "Q27_1#2": 4.179,
+        "Q27_1#3": 4.051
+      }
+    },
+    "adult_19_64_soccer": {
+      "respondents": 1192,
+      "injured": 840,
+      "injury_experience_pct": 70.47,
+      "body_mentions": 2282,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 437,
+          "injured_person_pct": 52.02,
+          "body_mention_share_pct": 19.15
+        },
+        {
+          "body_part": "무릎",
+          "count": 298,
+          "injured_person_pct": 35.48,
+          "body_mention_share_pct": 13.06
+        },
+        {
+          "body_part": "종아리",
+          "count": 120,
+          "injured_person_pct": 14.29,
+          "body_mention_share_pct": 5.26
+        },
+        {
+          "body_part": "허리",
+          "count": 115,
+          "injured_person_pct": 13.69,
+          "body_mention_share_pct": 5.04
+        },
+        {
+          "body_part": "정강이",
+          "count": 114,
+          "injured_person_pct": 13.57,
+          "body_mention_share_pct": 5.0
+        },
+        {
+          "body_part": "발가락",
+          "count": 95,
+          "injured_person_pct": 11.31,
+          "body_mention_share_pct": 4.16
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 90,
+          "injured_person_pct": 10.71,
+          "body_mention_share_pct": 3.94
+        },
+        {
+          "body_part": "발등",
+          "count": 84,
+          "injured_person_pct": 10.0,
+          "body_mention_share_pct": 3.68
+        },
+        {
+          "body_part": "손목",
+          "count": 78,
+          "injured_person_pct": 9.29,
+          "body_mention_share_pct": 3.42
+        },
+        {
+          "body_part": "어깨",
+          "count": 74,
+          "injured_person_pct": 8.81,
+          "body_mention_share_pct": 3.24
+        },
+        {
+          "body_part": "발톱",
+          "count": 73,
+          "injured_person_pct": 8.69,
+          "body_mention_share_pct": 3.2
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 70,
+          "injured_person_pct": 8.33,
+          "body_mention_share_pct": 3.07
+        },
+        {
+          "body_part": "손가락",
+          "count": 56,
+          "injured_person_pct": 6.67,
+          "body_mention_share_pct": 2.45
+        },
+        {
+          "body_part": "이마",
+          "count": 51,
+          "injured_person_pct": 6.07,
+          "body_mention_share_pct": 2.23
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 47,
+          "injured_person_pct": 5.6,
+          "body_mention_share_pct": 2.06
+        },
+        {
+          "body_part": "발바닥",
+          "count": 45,
+          "injured_person_pct": 5.36,
+          "body_mention_share_pct": 1.97
+        },
+        {
+          "body_part": "코",
+          "count": 38,
+          "injured_person_pct": 4.52,
+          "body_mention_share_pct": 1.67
+        },
+        {
+          "body_part": "손바닥",
+          "count": 37,
+          "injured_person_pct": 4.4,
+          "body_mention_share_pct": 1.62
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 33,
+          "injured_person_pct": 3.93,
+          "body_mention_share_pct": 1.45
+        },
+        {
+          "body_part": "눈",
+          "count": 33,
+          "injured_person_pct": 3.93,
+          "body_mention_share_pct": 1.45
+        },
+        {
+          "body_part": "가슴",
+          "count": 30,
+          "injured_person_pct": 3.57,
+          "body_mention_share_pct": 1.31
+        },
+        {
+          "body_part": "사타구니",
+          "count": 28,
+          "injured_person_pct": 3.33,
+          "body_mention_share_pct": 1.23
+        },
+        {
+          "body_part": "턱",
+          "count": 25,
+          "injured_person_pct": 2.98,
+          "body_mention_share_pct": 1.1
+        },
+        {
+          "body_part": "입",
+          "count": 22,
+          "injured_person_pct": 2.62,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "두피",
+          "count": 22,
+          "injured_person_pct": 2.62,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 22,
+          "injured_person_pct": 2.62,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "아래팔",
+          "count": 21,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.92
+        },
+        {
+          "body_part": "광대/뺨",
+          "count": 20,
+          "injured_person_pct": 2.38,
+          "body_mention_share_pct": 0.88
+        },
+        {
+          "body_part": "목(경부)",
+          "count": 19,
+          "injured_person_pct": 2.26,
+          "body_mention_share_pct": 0.83
+        },
+        {
+          "body_part": "등",
+          "count": 15,
+          "injured_person_pct": 1.79,
+          "body_mention_share_pct": 0.66
+        },
+        {
+          "body_part": "위팔",
+          "count": 13,
+          "injured_person_pct": 1.55,
+          "body_mention_share_pct": 0.57
+        },
+        {
+          "body_part": "배",
+          "count": 12,
+          "injured_person_pct": 1.43,
+          "body_mention_share_pct": 0.53
+        },
+        {
+          "body_part": "치아",
+          "count": 12,
+          "injured_person_pct": 1.43,
+          "body_mention_share_pct": 0.53
+        },
+        {
+          "body_part": "귀",
+          "count": 11,
+          "injured_person_pct": 1.31,
+          "body_mention_share_pct": 0.48
+        },
+        {
+          "body_part": "손등",
+          "count": 8,
+          "injured_person_pct": 0.95,
+          "body_mention_share_pct": 0.35
+        },
+        {
+          "body_part": "손톱",
+          "count": 6,
+          "injured_person_pct": 0.71,
+          "body_mention_share_pct": 0.26
+        },
+        {
+          "body_part": "제시 부분을 제외한 머리부분",
+          "count": 6,
+          "injured_person_pct": 0.71,
+          "body_mention_share_pct": 0.26
+        },
+        {
+          "body_part": "기타 (",
+          "count": 2,
+          "injured_person_pct": 0.24,
+          "body_mention_share_pct": 0.09
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 729,
+        "2": 111
+      },
+      "usual_warmup": {
+        "4": 731,
+        "3": 227,
+        "5": 188,
+        "2": 43,
+        "1": 3
+      },
+      "protective_equipment": {
+        "2": 509,
+        "1": 331
+      },
+      "environment_check": {
+        "1": 352,
+        "2": 488
+      },
+      "manual_check": {
+        "1": 199,
+        "2": 641
+      },
+      "leader_present": {
+        "2": 369,
+        "3": 353,
+        "null": 49,
+        "1": 69
+      },
+      "athlete_type": {
+        "1": 1023,
+        "2": 169
+      },
+      "surface": {
+        "2": 570,
+        "3": 212,
+        "1": 52,
+        "4": 6
+      },
+      "knee_by_warmup": {
+        "1": {
+          "other": 473,
+          "knee": 256
+        },
+        "2": {
+          "knee": 42,
+          "other": 69
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 3.698,
+        "Q27_1#2": 3.634,
+        "Q27_1#3": 3.551
+      }
+    },
+    "adult_19_64_lifestyle_soccer": {
+      "respondents": 1023,
+      "injured": 720,
+      "injury_experience_pct": 70.38,
+      "body_mentions": 1866,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 375,
+          "injured_person_pct": 52.08,
+          "body_mention_share_pct": 20.1
+        },
+        {
+          "body_part": "무릎",
+          "count": 252,
+          "injured_person_pct": 35.0,
+          "body_mention_share_pct": 13.5
+        },
+        {
+          "body_part": "종아리",
+          "count": 104,
+          "injured_person_pct": 14.44,
+          "body_mention_share_pct": 5.57
+        },
+        {
+          "body_part": "정강이",
+          "count": 98,
+          "injured_person_pct": 13.61,
+          "body_mention_share_pct": 5.25
+        },
+        {
+          "body_part": "허리",
+          "count": 95,
+          "injured_person_pct": 13.19,
+          "body_mention_share_pct": 5.09
+        },
+        {
+          "body_part": "발가락",
+          "count": 81,
+          "injured_person_pct": 11.25,
+          "body_mention_share_pct": 4.34
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 74,
+          "injured_person_pct": 10.28,
+          "body_mention_share_pct": 3.97
+        },
+        {
+          "body_part": "발등",
+          "count": 71,
+          "injured_person_pct": 9.86,
+          "body_mention_share_pct": 3.8
+        },
+        {
+          "body_part": "손목",
+          "count": 64,
+          "injured_person_pct": 8.89,
+          "body_mention_share_pct": 3.43
+        },
+        {
+          "body_part": "발톱",
+          "count": 63,
+          "injured_person_pct": 8.75,
+          "body_mention_share_pct": 3.38
+        },
+        {
+          "body_part": "어깨",
+          "count": 62,
+          "injured_person_pct": 8.61,
+          "body_mention_share_pct": 3.32
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 52,
+          "injured_person_pct": 7.22,
+          "body_mention_share_pct": 2.79
+        },
+        {
+          "body_part": "손가락",
+          "count": 50,
+          "injured_person_pct": 6.94,
+          "body_mention_share_pct": 2.68
+        },
+        {
+          "body_part": "이마",
+          "count": 37,
+          "injured_person_pct": 5.14,
+          "body_mention_share_pct": 1.98
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 34,
+          "injured_person_pct": 4.72,
+          "body_mention_share_pct": 1.82
+        },
+        {
+          "body_part": "손바닥",
+          "count": 33,
+          "injured_person_pct": 4.58,
+          "body_mention_share_pct": 1.77
+        },
+        {
+          "body_part": "발바닥",
+          "count": 30,
+          "injured_person_pct": 4.17,
+          "body_mention_share_pct": 1.61
+        },
+        {
+          "body_part": "코",
+          "count": 30,
+          "injured_person_pct": 4.17,
+          "body_mention_share_pct": 1.61
+        },
+        {
+          "body_part": "눈",
+          "count": 26,
+          "injured_person_pct": 3.61,
+          "body_mention_share_pct": 1.39
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 24,
+          "injured_person_pct": 3.33,
+          "body_mention_share_pct": 1.29
+        },
+        {
+          "body_part": "사타구니",
+          "count": 23,
+          "injured_person_pct": 3.19,
+          "body_mention_share_pct": 1.23
+        },
+        {
+          "body_part": "두피",
+          "count": 19,
+          "injured_person_pct": 2.64,
+          "body_mention_share_pct": 1.02
+        },
+        {
+          "body_part": "가슴",
+          "count": 18,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "턱",
+          "count": 18,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 17,
+          "injured_person_pct": 2.36,
+          "body_mention_share_pct": 0.91
+        },
+        {
+          "body_part": "목(경부)",
+          "count": 16,
+          "injured_person_pct": 2.22,
+          "body_mention_share_pct": 0.86
+        },
+        {
+          "body_part": "아래팔",
+          "count": 16,
+          "injured_person_pct": 2.22,
+          "body_mention_share_pct": 0.86
+        },
+        {
+          "body_part": "입",
+          "count": 13,
+          "injured_person_pct": 1.81,
+          "body_mention_share_pct": 0.7
+        },
+        {
+          "body_part": "광대/뺨",
+          "count": 12,
+          "injured_person_pct": 1.67,
+          "body_mention_share_pct": 0.64
+        },
+        {
+          "body_part": "등",
+          "count": 10,
+          "injured_person_pct": 1.39,
+          "body_mention_share_pct": 0.54
+        },
+        {
+          "body_part": "치아",
+          "count": 10,
+          "injured_person_pct": 1.39,
+          "body_mention_share_pct": 0.54
+        },
+        {
+          "body_part": "배",
+          "count": 9,
+          "injured_person_pct": 1.25,
+          "body_mention_share_pct": 0.48
+        },
+        {
+          "body_part": "위팔",
+          "count": 9,
+          "injured_person_pct": 1.25,
+          "body_mention_share_pct": 0.48
+        },
+        {
+          "body_part": "귀",
+          "count": 7,
+          "injured_person_pct": 0.97,
+          "body_mention_share_pct": 0.38
+        },
+        {
+          "body_part": "손등",
+          "count": 5,
+          "injured_person_pct": 0.69,
+          "body_mention_share_pct": 0.27
+        },
+        {
+          "body_part": "손톱",
+          "count": 4,
+          "injured_person_pct": 0.56,
+          "body_mention_share_pct": 0.21
+        },
+        {
+          "body_part": "제시 부분을 제외한 머리부분",
+          "count": 3,
+          "injured_person_pct": 0.42,
+          "body_mention_share_pct": 0.16
+        },
+        {
+          "body_part": "기타 (",
+          "count": 2,
+          "injured_person_pct": 0.28,
+          "body_mention_share_pct": 0.11
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 632,
+        "2": 88
+      },
+      "usual_warmup": {
+        "4": 636,
+        "5": 159,
+        "3": 191,
+        "2": 36,
+        "1": 1
+      },
+      "protective_equipment": {
+        "2": 448,
+        "1": 272
+      },
+      "environment_check": {
+        "1": 298,
+        "2": 422
+      },
+      "manual_check": {
+        "1": 157,
+        "2": 563
+      },
+      "leader_present": {
+        "2": 322,
+        "3": 307,
+        "1": 51,
+        "null": 40
+      },
+      "athlete_type": {
+        "1": 1023
+      },
+      "surface": {
+        "2": 489,
+        "3": 185,
+        "1": 41,
+        "4": 5
+      },
+      "knee_by_warmup": {
+        "1": {
+          "other": 411,
+          "knee": 221
+        },
+        "2": {
+          "other": 57,
+          "knee": 31
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 3.696,
+        "Q27_1#2": 3.62,
+        "Q27_1#3": 3.554
+      }
+    },
+    "adult_19_64_professional_soccer": {
+      "respondents": 169,
+      "injured": 120,
+      "injury_experience_pct": 71.01,
+      "body_mentions": 416,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 62,
+          "injured_person_pct": 51.67,
+          "body_mention_share_pct": 14.9
+        },
+        {
+          "body_part": "무릎",
+          "count": 46,
+          "injured_person_pct": 38.33,
+          "body_mention_share_pct": 11.06
+        },
+        {
+          "body_part": "허리",
+          "count": 20,
+          "injured_person_pct": 16.67,
+          "body_mention_share_pct": 4.81
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 18,
+          "injured_person_pct": 15.0,
+          "body_mention_share_pct": 4.33
+        },
+        {
+          "body_part": "정강이",
+          "count": 16,
+          "injured_person_pct": 13.33,
+          "body_mention_share_pct": 3.85
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 16,
+          "injured_person_pct": 13.33,
+          "body_mention_share_pct": 3.85
+        },
+        {
+          "body_part": "종아리",
+          "count": 16,
+          "injured_person_pct": 13.33,
+          "body_mention_share_pct": 3.85
+        },
+        {
+          "body_part": "발바닥",
+          "count": 15,
+          "injured_person_pct": 12.5,
+          "body_mention_share_pct": 3.61
+        },
+        {
+          "body_part": "손목",
+          "count": 14,
+          "injured_person_pct": 11.67,
+          "body_mention_share_pct": 3.37
+        },
+        {
+          "body_part": "발가락",
+          "count": 14,
+          "injured_person_pct": 11.67,
+          "body_mention_share_pct": 3.37
+        },
+        {
+          "body_part": "이마",
+          "count": 14,
+          "injured_person_pct": 11.67,
+          "body_mention_share_pct": 3.37
+        },
+        {
+          "body_part": "발등",
+          "count": 13,
+          "injured_person_pct": 10.83,
+          "body_mention_share_pct": 3.12
+        },
+        {
+          "body_part": "아킬레스 건",
+          "count": 13,
+          "injured_person_pct": 10.83,
+          "body_mention_share_pct": 3.12
+        },
+        {
+          "body_part": "어깨",
+          "count": 12,
+          "injured_person_pct": 10.0,
+          "body_mention_share_pct": 2.88
+        },
+        {
+          "body_part": "가슴",
+          "count": 12,
+          "injured_person_pct": 10.0,
+          "body_mention_share_pct": 2.88
+        },
+        {
+          "body_part": "발톱",
+          "count": 10,
+          "injured_person_pct": 8.33,
+          "body_mention_share_pct": 2.4
+        },
+        {
+          "body_part": "입",
+          "count": 9,
+          "injured_person_pct": 7.5,
+          "body_mention_share_pct": 2.16
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 9,
+          "injured_person_pct": 7.5,
+          "body_mention_share_pct": 2.16
+        },
+        {
+          "body_part": "광대/뺨",
+          "count": 8,
+          "injured_person_pct": 6.67,
+          "body_mention_share_pct": 1.92
+        },
+        {
+          "body_part": "코",
+          "count": 8,
+          "injured_person_pct": 6.67,
+          "body_mention_share_pct": 1.92
+        },
+        {
+          "body_part": "눈",
+          "count": 7,
+          "injured_person_pct": 5.83,
+          "body_mention_share_pct": 1.68
+        },
+        {
+          "body_part": "턱",
+          "count": 7,
+          "injured_person_pct": 5.83,
+          "body_mention_share_pct": 1.68
+        },
+        {
+          "body_part": "손가락",
+          "count": 6,
+          "injured_person_pct": 5.0,
+          "body_mention_share_pct": 1.44
+        },
+        {
+          "body_part": "사타구니",
+          "count": 5,
+          "injured_person_pct": 4.17,
+          "body_mention_share_pct": 1.2
+        },
+        {
+          "body_part": "등",
+          "count": 5,
+          "injured_person_pct": 4.17,
+          "body_mention_share_pct": 1.2
+        },
+        {
+          "body_part": "아래팔",
+          "count": 5,
+          "injured_person_pct": 4.17,
+          "body_mention_share_pct": 1.2
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 5,
+          "injured_person_pct": 4.17,
+          "body_mention_share_pct": 1.2
+        },
+        {
+          "body_part": "귀",
+          "count": 4,
+          "injured_person_pct": 3.33,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "위팔",
+          "count": 4,
+          "injured_person_pct": 3.33,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "손바닥",
+          "count": 4,
+          "injured_person_pct": 3.33,
+          "body_mention_share_pct": 0.96
+        },
+        {
+          "body_part": "배",
+          "count": 3,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.72
+        },
+        {
+          "body_part": "두피",
+          "count": 3,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.72
+        },
+        {
+          "body_part": "목(경부)",
+          "count": 3,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.72
+        },
+        {
+          "body_part": "손등",
+          "count": 3,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.72
+        },
+        {
+          "body_part": "제시 부분을 제외한 머리부분",
+          "count": 3,
+          "injured_person_pct": 2.5,
+          "body_mention_share_pct": 0.72
+        },
+        {
+          "body_part": "손톱",
+          "count": 2,
+          "injured_person_pct": 1.67,
+          "body_mention_share_pct": 0.48
+        },
+        {
+          "body_part": "치아",
+          "count": 2,
+          "injured_person_pct": 1.67,
+          "body_mention_share_pct": 0.48
+        }
+      ],
+      "warmup_before_injury": {
+        "2": 23,
+        "1": 97
+      },
+      "usual_warmup": {
+        "3": 36,
+        "4": 95,
+        "5": 29,
+        "2": 7,
+        "1": 2
+      },
+      "protective_equipment": {
+        "2": 61,
+        "1": 59
+      },
+      "environment_check": {
+        "2": 66,
+        "1": 54
+      },
+      "manual_check": {
+        "2": 78,
+        "1": 42
+      },
+      "leader_present": {
+        "2": 47,
+        "3": 46,
+        "null": 9,
+        "1": 18
+      },
+      "athlete_type": {
+        "2": 169
+      },
+      "surface": {
+        "1": 11,
+        "2": 81,
+        "3": 27,
+        "4": 1
+      },
+      "knee_by_warmup": {
+        "2": {
+          "knee": 11,
+          "other": 12
+        },
+        "1": {
+          "other": 62,
+          "knee": 35
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 3.711,
+        "Q27_1#2": 3.722,
+        "Q27_1#3": 3.536
+      }
+    },
+    "senior_65_plus_soccer": {
+      "respondents": 22,
+      "injured": 14,
+      "injury_experience_pct": 63.64,
+      "body_mentions": 40,
+      "body_parts": [
+        {
+          "body_part": "발목",
+          "count": 7,
+          "injured_person_pct": 50.0,
+          "body_mention_share_pct": 17.5
+        },
+        {
+          "body_part": "허리",
+          "count": 5,
+          "injured_person_pct": 35.71,
+          "body_mention_share_pct": 12.5
+        },
+        {
+          "body_part": "정강이",
+          "count": 4,
+          "injured_person_pct": 28.57,
+          "body_mention_share_pct": 10.0
+        },
+        {
+          "body_part": "무릎",
+          "count": 4,
+          "injured_person_pct": 28.57,
+          "body_mention_share_pct": 10.0
+        },
+        {
+          "body_part": "손목",
+          "count": 2,
+          "injured_person_pct": 14.29,
+          "body_mention_share_pct": 5.0
+        },
+        {
+          "body_part": "발톱",
+          "count": 2,
+          "injured_person_pct": 14.29,
+          "body_mention_share_pct": 5.0
+        },
+        {
+          "body_part": "두피",
+          "count": 2,
+          "injured_person_pct": 14.29,
+          "body_mention_share_pct": 5.0
+        },
+        {
+          "body_part": "팔꿈치",
+          "count": 2,
+          "injured_person_pct": 14.29,
+          "body_mention_share_pct": 5.0
+        },
+        {
+          "body_part": "턱",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "이마",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "손바닥",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "허벅지(대퇴)",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "종아리",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "발등",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "고관절(엉덩이 관절)",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "엉덩이",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "제시 부분을 제외한 머리부분",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "어깨",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "발가락",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        },
+        {
+          "body_part": "코",
+          "count": 1,
+          "injured_person_pct": 7.14,
+          "body_mention_share_pct": 2.5
+        }
+      ],
+      "warmup_before_injury": {
+        "1": 13,
+        "2": 1
+      },
+      "usual_warmup": {
+        "4": 9,
+        "3": 5,
+        "5": 7,
+        "2": 1
+      },
+      "protective_equipment": {
+        "2": 11,
+        "1": 3
+      },
+      "environment_check": {
+        "2": 8,
+        "1": 6
+      },
+      "manual_check": {
+        "2": 11,
+        "1": 3
+      },
+      "leader_present": {
+        "3": 8,
+        "null": 1,
+        "1": 1,
+        "2": 4
+      },
+      "athlete_type": {
+        "1": 19,
+        "2": 3
+      },
+      "surface": {
+        "2": 5,
+        "3": 9
+      },
+      "knee_by_warmup": {
+        "1": {
+          "other": 10,
+          "knee": 3
+        },
+        "2": {
+          "knee": 1
+        }
+      },
+      "warmup_quality_mean": {
+        "Q27_1#1": 4.0,
+        "Q27_1#2": 3.462,
+        "Q27_1#3": 3.462
+      }
+    }
+  }
+}
